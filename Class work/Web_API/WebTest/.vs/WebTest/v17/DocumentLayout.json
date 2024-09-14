@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\controllers\\employeecotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:controllers\\employeecotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\service\\sqlemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:service\\sqlemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\models\\app1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:models\\app1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\views\\employeecotroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:views\\employeecotroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webtest\\views\\employeecotroller\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC5B208D-B8BE-448A-9B63-034B78AABA63}|WebTest.csproj|solutionrelative:views\\employeecotroller\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:15:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App1Context.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Models\\App1Context.cs",
+              "RelativeDocumentMoniker": "Models\\App1Context.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Models\\App1Context.cs",
+              "RelativeToolTip": "Models\\App1Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:40:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sqlemployeeservice.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Service\\Sqlemployeeservice.cs",
+              "RelativeDocumentMoniker": "Service\\Sqlemployeeservice.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Service\\Sqlemployeeservice.cs",
+              "RelativeToolTip": "Service\\Sqlemployeeservice.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:51:20.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:38:06.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Service\\IEmployee.cs",
+              "RelativeDocumentMoniker": "Service\\IEmployee.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Service\\IEmployee.cs",
+              "RelativeToolTip": "Service\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:48:28.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeCotroller.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Controllers\\EmployeeCotroller.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeCotroller.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Controllers\\EmployeeCotroller.cs",
+              "RelativeToolTip": "Controllers\\EmployeeCotroller.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:02:25.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T08:19:19.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T08:30:36.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Views\\EmployeeCotroller\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmployeeCotroller\\Detail.cshtml",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Views\\EmployeeCotroller\\Detail.cshtml",
+              "RelativeToolTip": "Views\\EmployeeCotroller\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T08:13:27.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Views\\EmployeeCotroller\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmployeeCotroller\\Index.cshtml",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\WebTest\\Views\\EmployeeCotroller\\Index.cshtml",
+              "RelativeToolTip": "Views\\EmployeeCotroller\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T08:07:16.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

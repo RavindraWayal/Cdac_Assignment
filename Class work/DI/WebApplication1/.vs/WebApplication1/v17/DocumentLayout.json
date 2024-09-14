@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F418990-5FE4-40F2-9C55-E7E0265C94A5}|WebApplication1.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F418990-5FE4-40F2-9C55-E7E0265C94A5}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F418990-5FE4-40F2-9C55-E7E0265C94A5}|WebApplication1.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\webapplication1\\models\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F418990-5FE4-40F2-9C55-E7E0265C94A5}|WebApplication1.csproj|solutionrelative:models\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F418990-5FE4-40F2-9C55-E7E0265C94A5}|WebApplication1.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\webapplication1\\models\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F418990-5FE4-40F2-9C55-E7E0265C94A5}|WebApplication1.csproj|solutionrelative:models\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\WebApplication1\\Models\\Middleware.cs",
+              "RelativeDocumentMoniker": "Models\\Middleware.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\WebApplication1\\Models\\Middleware.cs",
+              "RelativeToolTip": "Models\\Middleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:59:28.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:35:42.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\WebApplication1\\Models\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "Models\\CustomMiddleware.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\WebApplication1\\Models\\CustomMiddleware.cs",
+              "RelativeToolTip": "Models\\CustomMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:24:24.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

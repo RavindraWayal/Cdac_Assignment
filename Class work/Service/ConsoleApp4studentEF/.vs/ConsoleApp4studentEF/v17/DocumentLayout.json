@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Student/True/SqlTable/dbo.Stations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Student/True/SqlTable/dbo.Grades.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|d:\\vita dac 2024\\dot net data\\class work\\service\\consoleapp4studentef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|d:\\vita dac 2024\\dot net data\\class work\\service\\consoleapp4studentef\\service\\servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|solutionrelative:service\\servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|d:\\vita dac 2024\\dot net data\\class work\\service\\consoleapp4studentef\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|d:\\vita dac 2024\\dot net data\\class work\\service\\consoleapp4studentef\\repository\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|solutionrelative:repository\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|d:\\vita dac 2024\\dot net data\\class work\\service\\consoleapp4studentef\\model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58C13EA-E81F-42CF-8A73-5BEDE546E00A}|ConsoleApp4studentEF.csproj|solutionrelative:model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Stations [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Student/True/SqlTable/dbo.Stations.sql",
+              "ToolTip": "dbo.Stations [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-28T10:40:04.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Grades [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Student/True/SqlTable/dbo.Grades.sql",
+              "ToolTip": "dbo.Grades [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-28T10:29:32.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Repository\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplicationContext.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Repository\\ApplicationContext.cs",
+              "RelativeToolTip": "Repository\\ApplicationContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:49:41.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servicelayer.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Service\\Servicelayer.cs",
+              "RelativeDocumentMoniker": "Service\\Servicelayer.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Service\\Servicelayer.cs",
+              "RelativeToolTip": "Service\\Servicelayer.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwEsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T10:14:27.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Model\\Grade.cs",
+              "RelativeDocumentMoniker": "Model\\Grade.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Model\\Grade.cs",
+              "RelativeToolTip": "Model\\Grade.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:05:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:01:50.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4studentEF\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:21:34.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

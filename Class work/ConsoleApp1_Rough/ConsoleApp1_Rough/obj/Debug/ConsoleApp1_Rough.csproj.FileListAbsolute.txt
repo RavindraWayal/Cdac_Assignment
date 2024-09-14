@@ -1,0 +1,7 @@
+D:\VITA DAC 2024\dot net data\ConsoleApp1_Rough\ConsoleApp1_Rough\bin\Debug\ConsoleApp1_Rough.exe.config
+D:\VITA DAC 2024\dot net data\ConsoleApp1_Rough\ConsoleApp1_Rough\bin\Debug\ConsoleApp1_Rough.exe
+D:\VITA DAC 2024\dot net data\ConsoleApp1_Rough\ConsoleApp1_Rough\bin\Debug\ConsoleApp1_Rough.pdb
+D:\VITA DAC 2024\dot net data\ConsoleApp1_Rough\ConsoleApp1_Rough\obj\Debug\ConsoleApp1_Rough.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\ConsoleApp1_Rough\ConsoleApp1_Rough\obj\Debug\ConsoleApp1_Rough.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\ConsoleApp1_Rough\ConsoleApp1_Rough\obj\Debug\ConsoleApp1_Rough.exe
+D:\VITA DAC 2024\dot net data\ConsoleApp1_Rough\ConsoleApp1_Rough\obj\Debug\ConsoleApp1_Rough.pdb

@@ -1,0 +1,7 @@
+D:\VITA DAC 2024\dot net data\Class work\Employee_detail\bin\Debug\Employee_detail.exe.config
+D:\VITA DAC 2024\dot net data\Class work\Employee_detail\bin\Debug\Employee_detail.exe
+D:\VITA DAC 2024\dot net data\Class work\Employee_detail\bin\Debug\Employee_detail.pdb
+D:\VITA DAC 2024\dot net data\Class work\Employee_detail\obj\Debug\Employee_detail.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Class work\Employee_detail\obj\Debug\Employee_detail.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Class work\Employee_detail\obj\Debug\Employee_detail.exe
+D:\VITA DAC 2024\dot net data\Class work\Employee_detail\obj\Debug\Employee_detail.pdb

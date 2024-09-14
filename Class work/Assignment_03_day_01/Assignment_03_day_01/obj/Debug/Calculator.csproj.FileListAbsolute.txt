@@ -1,0 +1,7 @@
+D:\VITA DAC 2024\dot net data\Assignment_03_day_01\Assignment_03_day_01\bin\Debug\Assignment_03_day_01.exe.config
+D:\VITA DAC 2024\dot net data\Assignment_03_day_01\Assignment_03_day_01\bin\Debug\Assignment_03_day_01.exe
+D:\VITA DAC 2024\dot net data\Assignment_03_day_01\Assignment_03_day_01\bin\Debug\Assignment_03_day_01.pdb
+D:\VITA DAC 2024\dot net data\Assignment_03_day_01\Assignment_03_day_01\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Assignment_03_day_01\Assignment_03_day_01\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Assignment_03_day_01\Assignment_03_day_01\obj\Debug\Assignment_03_day_01.exe
+D:\VITA DAC 2024\dot net data\Assignment_03_day_01\Assignment_03_day_01\obj\Debug\Assignment_03_day_01.pdb

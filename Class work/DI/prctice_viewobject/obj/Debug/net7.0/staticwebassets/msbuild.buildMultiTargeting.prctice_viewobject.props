@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\prctice_viewobject.props" />
+</Project>

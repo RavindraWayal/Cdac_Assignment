@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VITA DAC 2024\\dot net data\\Function1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95294CB3-CE1C-452F-B03F-5975B4E55A3A}|Function1\\Function1.csproj|d:\\vita dac 2024\\dot net data\\function1\\function1\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95294CB3-CE1C-452F-B03F-5975B4E55A3A}|Function1\\Function1.csproj|solutionrelative:function1\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mymath.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Function1\\Function1\\Mymath.cs",
+              "RelativeDocumentMoniker": "Function1\\Mymath.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Function1\\Function1\\Mymath.cs",
+              "RelativeToolTip": "Function1\\Mymath.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:39:14.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

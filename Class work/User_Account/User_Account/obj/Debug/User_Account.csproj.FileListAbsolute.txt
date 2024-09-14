@@ -1,0 +1,7 @@
+D:\VITA DAC 2024\dot net data\Class work\User_Account\User_Account\bin\Debug\User_Account.exe.config
+D:\VITA DAC 2024\dot net data\Class work\User_Account\User_Account\bin\Debug\User_Account.exe
+D:\VITA DAC 2024\dot net data\Class work\User_Account\User_Account\bin\Debug\User_Account.pdb
+D:\VITA DAC 2024\dot net data\Class work\User_Account\User_Account\obj\Debug\User_Account.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Class work\User_Account\User_Account\obj\Debug\User_Account.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Class work\User_Account\User_Account\obj\Debug\User_Account.exe
+D:\VITA DAC 2024\dot net data\Class work\User_Account\User_Account\obj\Debug\User_Account.pdb

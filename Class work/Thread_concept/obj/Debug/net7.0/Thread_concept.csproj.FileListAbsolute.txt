@@ -1,0 +1,14 @@
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\bin\Debug\net7.0\Thread_concept.exe
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\bin\Debug\net7.0\Thread_concept.deps.json
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\bin\Debug\net7.0\Thread_concept.runtimeconfig.json
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\bin\Debug\net7.0\Thread_concept.dll
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\bin\Debug\net7.0\Thread_concept.pdb
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\obj\Debug\net7.0\Thread_concept.GeneratedMSBuildEditorConfig.editorconfig
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\obj\Debug\net7.0\Thread_concept.AssemblyInfoInputs.cache
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\obj\Debug\net7.0\Thread_concept.AssemblyInfo.cs
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\obj\Debug\net7.0\Thread_concept.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\obj\Debug\net7.0\Thread_concept.dll
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\obj\Debug\net7.0\refint\Thread_concept.dll
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\obj\Debug\net7.0\Thread_concept.pdb
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\obj\Debug\net7.0\Thread_concept.genruntimeconfig.cache
+D:\VITA DAC 2024\dot net data\Class work\Thread_concept\obj\Debug\net7.0\ref\Thread_concept.dll

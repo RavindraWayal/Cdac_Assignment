@@ -1,0 +1,6 @@
+D:\VITA DAC 2024\dot net data\Class work\My_calculator\bin\Debug\My_calculator.dll
+D:\VITA DAC 2024\dot net data\Class work\My_calculator\bin\Debug\My_calculator.pdb
+D:\VITA DAC 2024\dot net data\Class work\My_calculator\obj\Debug\My_calculator.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Class work\My_calculator\obj\Debug\My_calculator.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Class work\My_calculator\obj\Debug\My_calculator.dll
+D:\VITA DAC 2024\dot net data\Class work\My_calculator\obj\Debug\My_calculator.pdb

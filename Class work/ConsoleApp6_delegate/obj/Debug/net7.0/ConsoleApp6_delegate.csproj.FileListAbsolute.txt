@@ -1,0 +1,14 @@
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\bin\Debug\net7.0\ConsoleApp6_delegate.exe
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\bin\Debug\net7.0\ConsoleApp6_delegate.deps.json
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\bin\Debug\net7.0\ConsoleApp6_delegate.runtimeconfig.json
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\bin\Debug\net7.0\ConsoleApp6_delegate.dll
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\bin\Debug\net7.0\ConsoleApp6_delegate.pdb
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\obj\Debug\net7.0\ConsoleApp6_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\obj\Debug\net7.0\ConsoleApp6_delegate.AssemblyInfoInputs.cache
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\obj\Debug\net7.0\ConsoleApp6_delegate.AssemblyInfo.cs
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\obj\Debug\net7.0\ConsoleApp6_delegate.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\obj\Debug\net7.0\ConsoleApp6_delegate.dll
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\obj\Debug\net7.0\refint\ConsoleApp6_delegate.dll
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\obj\Debug\net7.0\ConsoleApp6_delegate.pdb
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\obj\Debug\net7.0\ConsoleApp6_delegate.genruntimeconfig.cache
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp6_delegate\obj\Debug\net7.0\ref\ConsoleApp6_delegate.dll

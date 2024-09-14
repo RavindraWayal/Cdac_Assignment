@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4EmpEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F7E5E-F6A0-4820-8205-0EFB074DA0EE}|ConsoleApp4EmpEF.csproj|d:\\vita dac 2024\\dot net data\\class work\\service\\consoleapp4empef\\service\\servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F7E5E-F6A0-4820-8205-0EFB074DA0EE}|ConsoleApp4EmpEF.csproj|solutionrelative:service\\servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/MyEmployee/True/SqlTable/dbo.Departments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/MyEmployee/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F7E5E-F6A0-4820-8205-0EFB074DA0EE}|ConsoleApp4EmpEF.csproj|d:\\vita dac 2024\\dot net data\\class work\\service\\consoleapp4empef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F7E5E-F6A0-4820-8205-0EFB074DA0EE}|ConsoleApp4EmpEF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3F7E5E-F6A0-4820-8205-0EFB074DA0EE}|ConsoleApp4EmpEF.csproj|d:\\vita dac 2024\\dot net data\\class work\\service\\consoleapp4empef\\repository\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3F7E5E-F6A0-4820-8205-0EFB074DA0EE}|ConsoleApp4EmpEF.csproj|solutionrelative:repository\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Departments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/MyEmployee/True/SqlTable/dbo.Departments.sql",
+              "ToolTip": "dbo.Departments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-27T16:04:15.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/MyEmployee/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-27T15:39:23.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4EmpEF\\Repository\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplicationContext.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4EmpEF\\Repository\\ApplicationContext.cs",
+              "RelativeToolTip": "Repository\\ApplicationContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:24:31.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Servicelayer.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4EmpEF\\Service\\Servicelayer.cs",
+              "RelativeDocumentMoniker": "Service\\Servicelayer.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4EmpEF\\Service\\Servicelayer.cs",
+              "RelativeToolTip": "Service\\Servicelayer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAArwFIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:43:32.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4EmpEF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Service\\ConsoleApp4EmpEF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:11:10.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+D:\VITA DAC 2024\dot net data\Function2\Function2\bin\Debug\Function2.dll
+D:\VITA DAC 2024\dot net data\Function2\Function2\bin\Debug\Function2.pdb
+D:\VITA DAC 2024\dot net data\Function2\Function2\obj\Debug\Function2.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Function2\Function2\obj\Debug\Function2.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Function2\Function2\obj\Debug\Function2.dll
+D:\VITA DAC 2024\dot net data\Function2\Function2\obj\Debug\Function2.pdb

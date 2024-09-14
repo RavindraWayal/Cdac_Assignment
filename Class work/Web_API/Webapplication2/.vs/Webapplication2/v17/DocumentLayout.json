@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\service\\sqlempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:service\\sqlempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|d:\\vita dac 2024\\dot net data\\class work\\web_api\\webapplication2\\migrations\\20240429092910_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CE1B3F-1F52-4C21-B9A0-5BF39D7F63ED}|Webapplication2.csproj|solutionrelative:migrations\\20240429092910_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs*",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwFAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:15:23.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Service\\IEmployee.cs",
+              "RelativeDocumentMoniker": "Service\\IEmployee.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Service\\IEmployee.cs",
+              "RelativeToolTip": "Service\\IEmployee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:07:38.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlEmpService.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Service\\SqlEmpService.cs",
+              "RelativeDocumentMoniker": "Service\\SqlEmpService.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Service\\SqlEmpService.cs",
+              "RelativeToolTip": "Service\\SqlEmpService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:08:26.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:27:08.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:08:17.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T05:12:27.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:05:38.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppdbContext.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Models\\AppdbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppdbContext.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Models\\AppdbContext.cs",
+              "RelativeToolTip": "Models\\AppdbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:06:24.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T09:26:40.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240429092910_initialcreat.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Migrations\\20240429092910_initialcreat.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240429092910_initialcreat.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\Web_API\\Webapplication2\\Migrations\\20240429092910_initialcreat.cs",
+              "RelativeToolTip": "Migrations\\20240429092910_initialcreat.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:29:11.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

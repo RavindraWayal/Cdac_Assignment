@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "Default": "Data Source=(localdb)\\ProjectModels;Initial Catalog=My_Empoyee;Integrated Security=True;",
+    "Default1": "Data Source=(localdb)\\ProjectModels;Initial Catalog=My_product;Integrated Security=True;"
+
+  }
+}

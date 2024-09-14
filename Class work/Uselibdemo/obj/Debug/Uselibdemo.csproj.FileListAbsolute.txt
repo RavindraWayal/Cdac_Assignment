@@ -1,0 +1,7 @@
+D:\VITA DAC 2024\dot net data\Class work\Uselibdemo\bin\Debug\Uselibdemo.exe.config
+D:\VITA DAC 2024\dot net data\Class work\Uselibdemo\bin\Debug\Uselibdemo.exe
+D:\VITA DAC 2024\dot net data\Class work\Uselibdemo\bin\Debug\Uselibdemo.pdb
+D:\VITA DAC 2024\dot net data\Class work\Uselibdemo\obj\Debug\Uselibdemo.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Class work\Uselibdemo\obj\Debug\Uselibdemo.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Class work\Uselibdemo\obj\Debug\Uselibdemo.exe
+D:\VITA DAC 2024\dot net data\Class work\Uselibdemo\obj\Debug\Uselibdemo.pdb

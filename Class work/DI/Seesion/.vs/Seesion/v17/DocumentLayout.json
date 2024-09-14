@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\seesion\\views\\temp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|solutionrelative:views\\temp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\seesion\\controllers\\tempcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|solutionrelative:controllers\\tempcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\seesion\\controllers\\cookiedemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|solutionrelative:controllers\\cookiedemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\seesion\\views\\cookiedemo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|solutionrelative:views\\cookiedemo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\seesion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\seesion\\controllers\\sessiondemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|solutionrelative:controllers\\sessiondemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\seesion\\views\\sessiondemo\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|solutionrelative:views\\sessiondemo\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\seesion\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|solutionrelative:models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|d:\\vita dac 2024\\dot net data\\class work\\di\\seesion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F2C09-7AC7-45F9-9E53-C7DDC21E4DBC}|Seesion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Views\\Temp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Temp\\Index.cshtml",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Views\\Temp\\Index.cshtml",
+              "RelativeToolTip": "Views\\Temp\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T10:11:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TempController.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Controllers\\TempController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TempController.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Controllers\\TempController.cs",
+              "RelativeToolTip": "Controllers\\TempController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:08:23.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Views\\CookieDemo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CookieDemo\\Index.cshtml",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Views\\CookieDemo\\Index.cshtml",
+              "RelativeToolTip": "Views\\CookieDemo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T07:55:58.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CookieDemoController.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Controllers\\CookieDemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CookieDemoController.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Controllers\\CookieDemoController.cs",
+              "RelativeToolTip": "Controllers\\CookieDemoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:44:33.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T06:54:57.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Views\\SessionDemo\\Display.cshtml",
+              "RelativeDocumentMoniker": "Views\\SessionDemo\\Display.cshtml",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Views\\SessionDemo\\Display.cshtml",
+              "RelativeToolTip": "Views\\SessionDemo\\Display.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T06:40:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T04:08:26.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Models\\UserLogin.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T03:39:57.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionDemoController.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Controllers\\SessionDemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessionDemoController.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\DI\\Seesion\\Controllers\\SessionDemoController.cs",
+              "RelativeToolTip": "Controllers\\SessionDemoController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T03:37:30.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

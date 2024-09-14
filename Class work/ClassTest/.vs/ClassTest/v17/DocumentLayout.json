@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|D:\\VITA DAC 2024\\dot net data\\ClassTest\\classtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|solutionrelative:classtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|d:\\vita dac 2024\\dot net data\\classtest\\classtest\\account1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|solutionrelative:classtest\\account1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|D:\\VITA DAC 2024\\dot net data\\ClassTest\\classtest\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|solutionrelative:classtest\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|D:\\VITA DAC 2024\\dot net data\\ClassTest\\classtest\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|solutionrelative:classtest\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|D:\\VITA DAC 2024\\dot net data\\ClassTest\\classtest\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|solutionrelative:classtest\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|D:\\VITA DAC 2024\\dot net data\\ClassTest\\classtest\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A086E21-D82B-4FE8-BE79-3ABF6D456C47}|ClassTest\\ClassTest.csproj|solutionrelative:classtest\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Program.cs",
+              "RelativeDocumentMoniker": "ClassTest\\Program.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Program.cs",
+              "RelativeToolTip": "ClassTest\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:59:58.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account1.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Account1.cs",
+              "RelativeDocumentMoniker": "ClassTest\\Account1.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Account1.cs",
+              "RelativeToolTip": "ClassTest\\Account1.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwGwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:32:46.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student1.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Student1.cs",
+              "RelativeDocumentMoniker": "ClassTest\\Student1.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Student1.cs",
+              "RelativeToolTip": "ClassTest\\Student1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:20:32.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassTest\\Employee.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Employee.cs",
+              "RelativeToolTip": "ClassTest\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:29:37.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Account.cs",
+              "RelativeDocumentMoniker": "ClassTest\\Account.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Account.cs",
+              "RelativeToolTip": "ClassTest\\Account.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:27:42.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Student.cs",
+              "RelativeDocumentMoniker": "ClassTest\\Student.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\ClassTest\\ClassTest\\Student.cs",
+              "RelativeToolTip": "ClassTest\\Student.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:37:50.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

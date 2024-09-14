@@ -1,0 +1,10 @@
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\bin\Debug\My_calculator.dll
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\bin\Debug\My_calculator.pdb
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\obj\Debug\ConsoleA.3A898A1B.Up2Date
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\VITA DAC 2024\dot net data\Class work\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

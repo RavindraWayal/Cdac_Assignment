@@ -1,0 +1,7 @@
+D:\VITA DAC 2024\dot net data\ClassTest\ClassTest\bin\Debug\ClassTest.exe.config
+D:\VITA DAC 2024\dot net data\ClassTest\ClassTest\bin\Debug\ClassTest.exe
+D:\VITA DAC 2024\dot net data\ClassTest\ClassTest\bin\Debug\ClassTest.pdb
+D:\VITA DAC 2024\dot net data\ClassTest\ClassTest\obj\Debug\ClassTest.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\ClassTest\ClassTest\obj\Debug\ClassTest.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\ClassTest\ClassTest\obj\Debug\ClassTest.exe
+D:\VITA DAC 2024\dot net data\ClassTest\ClassTest\obj\Debug\ClassTest.pdb

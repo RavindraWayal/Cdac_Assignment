@@ -1,0 +1,7 @@
+D:\VITA DAC 2024\dot net data\Rough_work\Rough_work\bin\Debug\Rough_work.exe.config
+D:\VITA DAC 2024\dot net data\Rough_work\Rough_work\bin\Debug\Rough_work.exe
+D:\VITA DAC 2024\dot net data\Rough_work\Rough_work\bin\Debug\Rough_work.pdb
+D:\VITA DAC 2024\dot net data\Rough_work\Rough_work\obj\Debug\Rough_work.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Rough_work\Rough_work\obj\Debug\Rough_work.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Rough_work\Rough_work\obj\Debug\Rough_work.exe
+D:\VITA DAC 2024\dot net data\Rough_work\Rough_work\obj\Debug\Rough_work.pdb

@@ -1,0 +1,12 @@
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe.config
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.exe
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\bin\Debug\Basic_Calculator.pdb
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\bin\Debug\Function1.dll
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\bin\Debug\Function2.dll
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\bin\Debug\Function1.pdb
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\bin\Debug\Function2.pdb
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.csproj.CoreCompileInputs.cache
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Ca.70B6F5DB.Up2Date
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.exe
+D:\VITA DAC 2024\dot net data\Basic_Calculator\Basic_Calculator\obj\Debug\Basic_Calculator.pdb

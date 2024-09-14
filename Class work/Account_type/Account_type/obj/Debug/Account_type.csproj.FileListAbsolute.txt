@@ -1,0 +1,2 @@
+D:\VITA DAC 2024\dot net data\Class work\Account_type\Account_type\obj\Debug\Account_type.csproj.AssemblyReference.cache
+D:\VITA DAC 2024\dot net data\Class work\Account_type\Account_type\obj\Debug\Account_type.csproj.CoreCompileInputs.cache

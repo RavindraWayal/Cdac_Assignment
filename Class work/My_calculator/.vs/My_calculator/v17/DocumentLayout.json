@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VITA DAC 2024\\dot net data\\Class work\\My_calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C07E3081-57E7-4B95-8950-928AB88A16A6}|My_calculator.csproj|d:\\vita dac 2024\\dot net data\\class work\\my_calculator\\static_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07E3081-57E7-4B95-8950-928AB88A16A6}|My_calculator.csproj|solutionrelative:static_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07E3081-57E7-4B95-8950-928AB88A16A6}|My_calculator.csproj|d:\\vita dac 2024\\dot net data\\class work\\my_calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07E3081-57E7-4B95-8950-928AB88A16A6}|My_calculator.csproj|solutionrelative:mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07E3081-57E7-4B95-8950-928AB88A16A6}|My_calculator.csproj|d:\\vita dac 2024\\dot net data\\class work\\my_calculator\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07E3081-57E7-4B95-8950-928AB88A16A6}|My_calculator.csproj|solutionrelative:child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "static_method.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\My_calculator\\static_method.cs",
+              "RelativeDocumentMoniker": "static_method.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\My_calculator\\static_method.cs",
+              "RelativeToolTip": "static_method.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:31:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Child.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\My_calculator\\Child.cs",
+              "RelativeDocumentMoniker": "Child.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\My_calculator\\Child.cs",
+              "RelativeToolTip": "Child.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:28:02.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCalculator.cs",
+              "DocumentMoniker": "D:\\VITA DAC 2024\\dot net data\\Class work\\My_calculator\\MyCalculator.cs",
+              "RelativeDocumentMoniker": "MyCalculator.cs",
+              "ToolTip": "D:\\VITA DAC 2024\\dot net data\\Class work\\My_calculator\\MyCalculator.cs",
+              "RelativeToolTip": "MyCalculator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:23:12.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
